@@ -1,0 +1,15 @@
+#,TASK,VOTE,REMARKS
+1,introduction,5,
+2,explain in one sentence,5,
+3,explain in three paragraphs,5,
+4,say 'I am ready',4 ,there is more text than required but it starts with I am ready.
+5,summarize,5,
+6,Summarize in two sentences,5,
+7,Write in a list the three main key points -  format output,3 ,"intent generally achieved, but the model did not returnn ONLY the python list"
+8,Table of Contents,5 ,really well done
+9,RAG,5 ,only a small grammar mistake 'China achieved achieving'
+10,Truthful RAG,1 ,"user intent not reflected, and the answer is out of context"
+11,write content from a reference,5,
+12,extract 5 topics,5,
+13,Creativity: 1000 words SF story,4 ,"this is more a script than a short story, but it is well plot, with coherence. Did not match the target word count.. there are only 500 words"
+14,Reflection prompt,5 ,"well organized, all tags open/closed and coherent"
